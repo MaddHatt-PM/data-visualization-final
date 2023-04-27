@@ -1,0 +1,217 @@
+Date,"Location",Cost (millions 2013US$),INES,Smyth Magnitude,Region,Description,Fatalities,Latitude,Longitude
+2014/05/17,"Tarapur, Maharashtra, India",,1,,A,Overexpossure of a worker during a transfer operation of irradiated neutron detector,0,19.99745,73.7898
+2013/07/15,"Shimen, Taiwan",23.5,,,A,Typhoon Soulik damaged the Jinshan Nuclear Power Plant by tripping the generator and destroying transmission lines which lead to shutdown and detection of radiation leaks.,0,24.817,-121.017
+2013/06/21,"Wanli, Taiwan",4.3,,,A,Air dampener at the Kuosheng Nuclear Power Plant fell into the busbar and tripped the reactor and caused a shutdown.,0,25.18254,121.44647
+2012/09/01,"Busan, South Korea",,2,,A,Station blackout occurred when back up generator failed to start while primary generator was out of service for maintenance,0,35.17944,129.07564
+2012/06/23,"Rajasthan, India",,1,,A,Exposure of workers to tritium,0,26.91243,75.78727
+2012/03/12,"Wanli, Taiwan",3.2,,,A,Maintenance workers at the Kuosheng Nuclear Power Plant discovered cracked anchor bolts that forced a 3 day shutdown.,0,25.18254,121.44647
+2011/10/19,"Karachi, Pakistan",,1,,A,The nuclear power plant imposed a seven-hour emergency after heavy water leaked from a feeder pipe to the reactor,0,24.86074,67.00114
+2011/03/11,"Fukushima Prefecture, Japan",166089,7,7.5,A,An earthquake and tsunami caused emergency backup generators to fail at the Fukushima Daiichi nuclear power plant and reactors cracked as a result causing fire and meltdown.,573,37.75029,140.46755
+2011/03/11,"Onagawa, Japan",,2,,A,"The cooling system of the reactor failed due to an earthquake, however the reactor had allready been shut down before the earthquake",0,38.43848,141.50203
+2008/07/04,"Fukushima Province, Japan",52.4,,,A,Tokyo Electric Power Company's No. 2 Kurihara Power Plant damaged by 7.2 magnitude earthquake resulted in cracked reactor cooling towers and spent fuel storage facilities and spilled 19 litres of radioactive wastewater.,0,37.75029,140.46755
+2007/07/18,"Kashiwazaki, Japan",2.1,,,A,"The Tokyo Electric Power Company's  Kariwa nuclear plant damaged by a 6.8 magnitude earthquake leaked 1,192 litres of radioactive water into the Sea of Japan.",0,37.43236,138.58594
+2006/12/24,"Jadugoda, India",28.9,,,A,One of the pipes carrying radioactive waste from the Jadugoda uranium mill ruptured and distributed radioactive materials more than 100 square kilometers.,0,22.85295,86.21915
+2004/08/09,"Fukui Prefecture, Japan",10.7,1,,A,Steam explosion at Mihama Nuclear Power Plant killed 5 workers and injures dozens.,5,36.06523,136.22108
+2002/10/22,"Kalpakkam, India",34.2,,,A,Almost 100 kilograms of radioactive sodium at a fast breeder reactor leaked into a purification cabin and ruined a number of valves and operating systems.,0,12.55638,80.21425
+2001/03/18,"Tawian",,,,A,"A pressurized water reactor experienced a total loss of power supply, crucial for evacuating residual heat from the reactor core, due to salt deposits on insulators and a short circuit in a power switch causing a cable fire. It took approximately two hours to restore the power supply after the incident.",0,23.69781,120.96052
+1999/09/30,"Ibaraki Prefecture, Japan",62.1,4,,A,"Workers at the Tokaimura uranium processing facility tried to save time by mixing uranium in buckets which killed two and injuring 1,200.",2,36.30714,140.32049
+1999/06/18,"Shika, Ishikawa, Japan",39.6,2,,A,Control rod malfunction set off uncontrolled nuclear reaction at Shika Nuclear Power Station's Unit-1.,0,37.05757,136.6971
+1997/11/03,"Ibaraki Prefecture, Japan",,3,,A,At least 37 workers were expossed to elevated levels of radiation after a small explosion in the plant. A week after high levels of Calcium were detected 25 miles south-west of the plant,0,36.30714,140.32049
+1995/12/08,"Tsuruga, Japan",15500,,,A,"Japan's only fast breeder reactor Monju suffers serious accident and fire caused by leaking sodium, reactor shutdown for 6 years while extensive repairs are carried out",0,35.64591,136.05544
+1995/02/02,"Kota, Rajasthan, India",323.1,,,A,The Rajasthan Atomic Power Station leaked radioactive helium and heavy water into the Rana Pratap Sagar River requiring a two year shutdown.,0,25.18255,75.83903
+1993/03/31,"Bulandshahr, Uttar Pradesh, India",254.7,,,A,The Narora Atomic Power Station suffered a fire at two of its steam turbine blades that damaged two heavy water reactors and almost led to a meltdown.,0,28.40696,77.84982
+1992/05/13,"Tarapur, Maharashtra, India",2.1,,,A,A malfunctioning tube caused the Tarapur nuclear reactor to release 12 curies of radioactivity.,0,19.99745,73.7898
+1991/02/09,"Japan",,,,A,"At the Mihama-2 pressurized water reactor in Japan, a steam generator tube rupture occurred, leading to the first activation of the emergency core cooling system in the country. The utility found the failure was due to high cycle fatigue caused by vibration from an improperly supported tube because of incorrect insertion of adjacent anti-vibration bars.",0,36.20482,138.25293
+1989/09/10,"Tarapur, Maharashtra, India",89.9,,,A,Operators at the Tarapur nuclear power plant discovered the reactor had been leaking radioactive iodine through its cooling structures and discovered radiation levels of iodine-129 more than 700 times normal levels.,0,19.99745,73.7898
+1987/05/04,"Kalpakkam, India",346.7,,,A,"Fast Breeder Test Reactor at Kalpakkam shut down due to pump failures, faulty instrument signals, and turbine malfunctions that led to rupture of reactor core.",0,12.55638,80.21425
+1981/03/08,"Tsuruga, Japan",3.2,2,,A,278 workers were exposed to excessive levels of radiation during repair of Tsuruga nuclear plant.,0,35.64591,136.05544
+1979/09/12,"Mihama, Japan",12.8,,,A,Fuel rods at the Mihama Nuclear Power Plant unexpectedly bowed and damaged the fuel supply system.,0,35.53971,136.19056
+2014/11/28,"Zaporizhia, Ukraine",,0,,EE,Disconnection of the unit 3 of the plant from the grid,0,47.81667,35.17028
+2013/10/08,"Krsko, Slovenia",,0,,EE,Discovery of damaged fuel rods during unloading and fuel inspections,0,45.95703,15.49008
+2013/02/12,"Puspokszilagy, Hungary",,1,,EE,Three workers were expossed to radiation while handling radioactive waste,0,47.57216,19.06849
+2012/05/09,"Paks, Hungary",,1,,EE,Deviation from specifications on a maintenance task due to lack of written instructions,0,46.62347,18.85261
+2009/08/27,"St. Petersburg, Russia",127.3,,,EE,A cracked discharge accumulator and malfunctioning feed pump forced the Leningrad Nuclear Power Plant reactor number 3 to close for extended repairs.,0,59.93428,30.33593
+2008/06/04,"Ljubljana, Slovenia",11.8,,,EE,Regulators shut down the Krsko nuclear power plant after the primary cooling system malfunctioned and coolant spilled into the reactor core.,0,46.05108,14.50513
+2005/05/01,"Bulgaria",,2,,EE,"During power reduction at the Kozloduy-5 pressurized water reactor in Bulgaria, operators found that three control rod assemblies remained in the upper end position, and 22 out of 61 could not be moved with driving mechanisms. The exact number of control rod assemblies unable to scram is unknown, but the reactor is designed for safe shutdown if only one control rod assembly is jammed; the incident was ultimately rated INES level 2.",0,42.73388,25.48583
+2003/04/10,"Paks, Hungary",42.8,3,3.9,EE,Damaged fuel rods hemorrhaged spent fuel pellets and corroded heavy water reactor.,0,46.62347,18.85261
+1997/06/17,"Nizhny Novgorod, Russia",0,,,EE,Technican died from criticality incident at Arzamas-16 Nuclear Centre,1,56.32408,44.00539
+1993/04/06,"Tomsk, Russia",51.4,4,4.8,EE,Ice condenser containment systems failed at Indiana Michigan Power Company's D.C. Cook Units 1 and 2.,0,56.48468,84.94765
+1986/04/26,"Kiev, Ukraine",259336,7,8,EE,Mishandled reactor safety test at Chernobyl nuclear reactor caused steam explosion and meltdown and required massive evacuation.,4056,50.4501,30.5234
+1982/09/09,"Chernobyl, Ukraine",1100,5,,EE,"Partial core melt - fuel assembly channel 62-44 destroyed, irradiation of staff involved in repairing the core",0,51.2763,30.2219
+1980/09/01,"Leningrad, Russia",0,,,EE,Operator at gamma irradiation facility died from exposure.,1,59.90944,30.30707
+1977/02/22,"Jaslovske Bohunice, Czechoslovakia",1964.5,4,,EE,Mechanical failure during fuel loading at the KS 150 reactor caused severe corrosion and released radioactivity into the plant area; requiring total decommission.,0,48.54084,17.82976
+1977/01/01,"Beloyarsk, Soviet Union",3500,5,,EE,"Unit 2 suffers a half core meltdown, repairs take more than a year",0,53.60319,58.33232
+1976/01/05,"Jaslovske Bohunice, Czechoslovakia",0,,,EE,Leaked carbon dioxide from a KS 150's reactor coolant system at the Bohunice Nuclear Power Plant fatally suffocated two workers.,2,48.54084,17.82976
+1975/12/07,"Greifswald, East Germany",511.5,3,,EE,Electrical error caused fire in the main trough that destroyed control lines and 5 main coolant pumps.,0,54.08807,13.39234
+1975/11/30,"Leningrad, Russia",99.5,4,,EE,"A fuel channel in Unit 1 suffered a loss of coolant, resulting in the degradation of a nuclear fuel assembly that led to a significant release of radiation lasting for one month",0,59.90944,30.30707
+1975/02/06,"Leningrad, Russia",11.4,4,,EE,"The secondary cooling circuit of Unit 1 ruptured, releasing contaminated water into the environment",3,59.90944,30.30707
+1971/02/11,"Moscow, Russia",0,4,,EE,Supervisor died after criticality accident at the Kurchatov Institute,1,55.75583,37.61773
+1968/04/05,"Chelyabinsk, Soviet Union",0,5,5,EE,Technician died from exposure after initiating test at Russian Federal Nuclear Centre.,1,53.72777,91.44279
+1958/10/15,"Vinca, Yugoslavia",0,4,,EE,Death due to citicality accident at Boris Kidrich Institute.,1,44.80468,20.47895
+1958/04/13,"Chelyabinsk, Soviet Union",0,,,EE,Three died and one was injured in a super criticality accident at USSR Mayak Complex.,3,53.72777,91.44279
+1957/09/29,"Kyshtym, Chelyabinsk, Soviet Union",1733.4,6,7.3,EE,Heat exchangers failed at nitrate storage tank at the Mayak Scientific-Production Association spent fuel rod storage facility and caused a massive chemical explosion.,103,55.7682,60.6532
+2014/02/14,"Waste Isolation Pilot Plant, New Mexico",8.2,,,NA,"Mine fire occured at salt hauling truck and required evacuation of the entire facility, extensive cleanup, and hospitalization of six workers for smoke inhalation and radiation exposure.",0,32.36316,-103.77116
+2012/01/30,"Rock River, Illinois",2.1,,,NA,Switchyard component failure and transformer fire at Exelon's Byron Generating Station's Unit 2 caused shutdown and tritium steam release to prevent a meltdown.,0,42.27827,-89.12865
+2011/08/23,"Mineral, Virginia, United States",48.2,,,NA,A magnitude 5.8 earthquake damaged Dominion Energy's North Anna Power Station and cracked spent fuel containers and collapsed administrative buildings.,0,37.94318,-77.94232
+2010/02/01,"Vernon, Vermont, United States",808.9,,,NA,Underground pipes from the Vermont Yankee nuclear power plant deteriorated and leaked radioactive tritium into groundwater supplies in Vermont and resulted in the shutdown of the plant.,0,42.83961,-72.81202
+2006/03/06,"Erwin, Tennessee, United States",113.4,2,,NA,Nuclear fuel services plant spilled 35 litres of highly enriched uranium that required 7 month shutdown.,0,36.0584,-82.40442
+2006/02/24,"Rock River, Illinois",3.2,,,NA,Small fire spreads at Byron Nuclear Generating Station and destroys Refueling Water Storage Tank,0,42.27827,-89.12865
+2005/08/04,"Indian Point, New York, United States",34.2,,,NA,"Entergy's Indian Point Nuclear Plant, located on the Hudson River, leaked tritium and strontium into underground lakes from 1974 to 2005.",0,41.28412,-73.91646
+2005/06/16,"Braidwood, Illinois, United States",47.1,,,NA,Exelon's Braidwood nuclear station leaked tritium and contaminated local water supplies.,0,41.24249,-88.11029
+2003/01/15,"Bridgman, Michigan, United States",11.8,,,NA,A fault in the main transformer at the Donald C. Cook nuclear power plant caused a fire that damaged the main generator and backup turbines.,0,41.94722,-86.55694
+2002/02/16,"Oak Harbor, Ohio, United States",164.8,,,NA,Severe corrosion of control rod forced 24 month outage of Davis-Besse reactor.,0,41.50837,-82.93724
+1999/09/29,"Lower Alloways Creek, New Jersey, United States",2.1,,,NA,Freon leak at Hope Creek Nuclear Facility caused ventilation train chiller to trip that released toxic gas and damaged the cooling system.,0,39.51377,-75.57699
+1999/05/25,"Waterford, Connecticut, United States",8.6,,,NA,Steam leak in feedwater heater caused manual shutdown and damaged control board annunicator at the Millstone Nuclear Power Plant.,0,41.35175,-72.16482
+1997/09/09,"Bridgman, Michigan, United States",12.8,,,NA,Ice condenser containment systems failed at Indiana Michigan Power Company's D.C. Cook Units 1 and 2.,0,41.94722,-86.55694
+1996/09/20,"Senaca, Illinois, United States",82.4,,,NA,Service water system failed and prompted Commonwealth Edison to close LaSalle Units 1 and 2 for more than 2 years.,0,41.29977,-88.27857
+1996/09/05,"Clinton, Illinois, United States",43.9,,,NA,Reactor recirculation pump failed and required Illinois Power Company to shut down Clinton boiling water reactor.,0,40.15287,-88.96453
+1996/09/02,"Crystal River, Florida, United States",444.1,,,NA,Balance-of-plant equipment malfunction forced Florida Power Corporation to shut down Crystal River Unit 3 and make extensive repairs.,0,28.94275,-82.77177
+1996/05/15,"Morris, Grundy County, Illinois, USA",,,,NA,"Plunging water levels around the nuclear fuel in the reactor's core prompt shut down atDresden Generating Station,",0,41.35726,-88.42118
+1996/02/20,"Waterford, Connecticut, United States",293.2,,,NA,Leaking valve forced Northeast Utilities Company to shut down Millstone Units 1 and 2.,0,41.35175,-72.16482
+1995/05/16,"Salem, New Jersey, United States",39.6,,,NA,Ventilation systems failed at Public Service Electric & Gas Company's Salem Units 1 and 2.,0,39.57389,-75.46733
+1995/01/14,"Wiscasset, Maine, United States",71.7,,,NA,Steam generator tubes cracked at Maine Yankee nuclear reactor and forced the Maine Yankee Atomic Power Company to shutdown for 1 year.,0,43.9188,-69.80105
+1993/12/25,"Newport, Michigan, United States",77,,,NA,Detroit Edison Company forced to shut down Fermi Unit 2 after main turbine experienced catastrophic failure due to improper maintenance.,0,41.98619,-83.39349
+1993/03/02,"Soddy-Daisy, Tennessee, United States",3.2,,,NA,Equipment failures and broken pipes caused Tennessee Valley Authority to shut down Sequoyah Unit 1.,0,35.24228,-85.23745
+1993/02/27,"Buchanan, New York, United States",2.1,,,NA,New York Power Authority shut down Indian Point Unit 3 after AMSAC system fails.,0,41.26232,-73.93957
+1993/02/03,"Bay City, Texas, United States",3.2,,,NA,Auxiliary feedwater pumps failed at South Texas Project Units 1 and 2 and required rapid shutdown of both reactors.,0,28.98276,-95.96476
+1992/08/02,"Pickering, Canada",,,,NA,Pickering reactor 4 had a heavy water leak from a heat exchanger that resulted in a release of 50 trillion becquerels of tritium into Lake Ontario,0,43.83841,-79.08676
+1992/04/21,"Southport, North Carolina, United States",2.1,,,NA,NRC forced Carolina Power & Light Company to shut down Brunswick Units 1 and 2 after emergency diesel generators failed.,0,33.92156,-78.02027
+1991/11/17,"Scriba, New York, United States",5.4,,,NA,Safety and fire problems forced New York Power Authority to shut down the FitzPatrick nuclear reactor for 13 months.,0,43.45535,-76.5105
+1991/04/03,"New Hill, North Carolina, USA",,,,NA,"Workers at the Shearon Harris pressurized water reactor discovered damaged piping and valves in the emergency core cooling system, which could have led to a failure in cooling the reactor core in an accident. The NRC calculated the severe core damage risk from this event to be 0.6% per reactor year, but the event was not rated on the IAEA INES scale.",0,35.72095,-78.80416
+1990/09/25,"Pickering, Canada",,,,NA,Pickering reactor 2 experienced large power shifts in the reactor core. Staff spent two days trying to stabilize it before shutting it down. The AECB later criticized the utility for not shutting down immediately.,0,43.83841,-79.08676
+1989/10/09,"Hadden Neck, Connecticut, USA",12.9,,,NA,480 fuel rods were damaged during the operating cycle by metal chips present in the coolant system,0,41.47114,-72.68399
+1989/03/17,"Lusby, Maryland, United States",139.1,,,NA,Baltimore Gas & Electric's Calvert Cliff Units 1 and 2 inspections revealed cracks at pressurized heater sleeves and forced extended shutdown.,0,38.31551,-76.55052
+1989/03/05,"Tonopah, Arizona, United States",16.1,,,NA,Atmospheric dump valves failed at Arizona Public Service Company's Palo Verde Unit 1 and led to main transformer fire and emergency shut down.,0,33.49746,-112.93637
+1988/11/22,"Pickering, Ontario, Canada",6.6,,,NA,Xenon buildup causes damage to 191 fuel rods,0,43.83841,-79.08676
+1988/09/10,"Surry, Virginia, United States",10.7,,,NA,Refueling cavity seal failed and destroyed internal pipe system at Virginia Electric Power Company's Surry Unit 2 and forced a 12 month outage.,0,37.14144,-76.83541
+1988/05/12,"Civaux, France",,2,,NA,A large leak of coolant into the reactor building occurred when a pipe cracked open,0,46.39468,0.68074
+1988/03/29,"Burlington, Kansas, United States",0,,,NA,Safety inspector died from electrocution after contacting a mislabeled wire at the Wolf Creek Nuclear Power Plant.,1,38.1973,-95.73579
+1988/03/25,"Pickering, Ontario, Canada",5.5,,,NA,"Fuel rod failures limited reactor power to 50 percent for six months, and on November 22, 1988, operator error damaged 36 fuel bundles. The cooling system became contaminated with radioactive iodine, which was released into the environment over several weeks following the accident.",0,43.83841,-79.08676
+1987/12/19,"Lycoming, New York, United States",173.3,,,NA,"Fuel rod, waste storage, and water pumping malfunctions forced Niagara Mohawk Power Corporation to shut down Nine Mile Point Unit 1.",0,43.2611,-76.97088
+1986/12/09,"Surry, Virginia, United States",2.8,,,NA,Steam explosion in Unit 2 cases deadliest accident (fatalities) in US history,4,37.14144,-76.83541
+1986/05/22,"Delta, Pennsylvania, United States",462.2,,,NA,Philadelphia Electric Company shut down Peach Bottom units 2 and 3 due to cooling malfunctions and unexplained equipment problems.,0,39.74895,-76.11434
+1986/04/11,"Plymouth, Massachusetts, United States",1156.7,,,NA,"Recurring equipment problems with instrumentation, vacuum breakers, instrument air system, and main transformer forced emergency shutdown of Boston Edison's Pilgrim nuclear facility.",0,42.07308,-70.71048
+1985/12/26,"Clay Station, California, United States",776.8,,,NA,Safety and control systems failed at Rancho Seco nuclear reactor and led to the premature closure of the plant.,0,38.26921,-121.81509
+1985/12/18,"Lacey and Ocean Townships, Ocean County, New Jersey, USA",3.8,,,NA,Malfunctioning computer causes fuel rod failures and increased levels of gaseous activity,0,39.78273,-74.19634
+1985/08/22,"Soddy-Daisy, Tennessee, United States",40.7,,,NA,Tennessee Valley Authority Sequoyah Units 1 and 2 failed and forced 3 year shutdown; workers also exposed to excessive levels of radiation.,0,35.24228,-85.23745
+1985/06/09,"Oak Harbor, Ohio, United States",26.8,,,NA,"Loss of feedwater provoked Toledo Edison Company to inspect Davis-Besse facility, where inspectors discovered corroded reactor coolant pumps and shafts .",0,41.50837,-82.93724
+1985/03/09,"Athens, Alabama, United States",2114.3,,,NA,Instrumentation systems malfunctioned during startup and the Tennessee Valley Authority suspended operations at all three Browns Ferry Units.,0,34.80287,-86.97167
+1984/09/15,"Athens, Alabama, United States",127.3,,,NA,"Safety violations, operator error, and design problems forced 6 year outage at Browns Ferry Unit 2.",0,34.80287,-86.97167
+1984/06/13,"Platteville, Colorado, United States",25.7,,,NA,Moisture intrusion caused 6 fuel rods to fail at Fort St. Vrain nuclear plant and required emergency shutdown from Public Service Company of Colorado.,0,40.21625,-104.73287
+1984/04/18,"Delta, Pennsylvania, United States",20.3,,,NA,Philadelphia Electric Company shut down Peach Bottom Unit 2 to due to extensive recirculation system and equipment damage.,0,39.74895,-76.11434
+1983/12/10,"Plymouth, Massachusetts, United States",4.3,,,NA,Recirculation system piping cracked and forced Pilgrim nuclear reactor to shutdown.,0,42.07308,-70.71048
+1983/09/26,"Russellville, Pope County, Arkansas, USA",4.1,,,NA,"Control rod misalignment results in xenon oscillations, damaging the fuel and increasing gaseous activity",0,35.27842,-93.13379
+1983/09/07,"Athens, Alabama, United States",39.6,,,NA,Tennessee Valley Authority discovered extensive damage to recirculation system pipeline.,0,34.80287,-86.97167
+1983/08/01,"Pickering, Canada",1000,,,NA,"On August 1, 1983, Pickering reactor 2 had a loss of coolant accident after a pressure tube suffered a metre-long rupture. The station was shut down and the four reactors at Pickering were eventually retubed at a cost of about $1 billion.",0,43.83841,-79.08676
+1983/03/09,"Gravel Neck, Surry County, Virginia, USA",2.2,,,NA,Fuel rods were discovered damaged due to metal chips that had been left in the reactor coolant system,0,37.11806,-76.81471
+1983/02/26,"Pierce, Florida, United States",62.1,,,NA,Workers discovered damaged thermal shield and core barrel support at St. Lucie Unit 1 which required a 13 month shutdown.,0,27.28773,-80.2331
+1983/02/12,"Fork River, New Jersey, United States",37.5,,,NA,Oyster Creek nuclear plant failed safety inspection and was forced to shut down.,0,39.829,-74.26021
+1982/06/18,"Senaca, South Carolina, United States",11.8,,,NA,Feedwater heat extraction line failed at Oconee 2 Pressurized Water Reactor and damaged the thermal cooling system.,0,34.68565,-82.95319
+1982/03/25,"Buchanan, New York, United States",64.2,,,NA,Water and coolant leaks caused damage to steam generator tubes and main generator and forced the New York Power Authority to shut down Indian Point Unit 3.,0,41.26232,-73.93957
+1982/03/20,"Lycoming, New York, United States",52.4,,,NA,Recirculation system piping failed at Nine Mile Point Unit 1 and forced a 2 year shutdown.,0,43.2611,-76.97088
+1982/02/26,"San Clemente, California, United States",1.1,,,NA,Southern California Company shut down San Onofre Unit 1 because of earthquake concerns.,0,33.42713,-117.6115
+1981/09/20,"Baxley, Appling County, Georgia, USA",1.1,,,NA,Fuel rod failures caused air ejector activity to rise to 0.3 Ci per second,0,31.77825,-82.34847
+1981/02/11,"Florida City, Florida, United States",2.1,,,NA,Florida Light & Power manually shut down Turkey Point Unit 3 after steam generator tubes degraded and failed.,0,25.46872,-80.47756
+1980/11/22,"San Onofre, California, United States",0,,,NA,Worker cleaning breaker cubicles at San Onofre Pressurized Water Reactor contacted an energized line and was killed by electrocution.,1,33.37375,-117.56388
+1979/03/28,"Middletown, Pennsylvania, United States",10910,5,7.9,NA,Equipment failure and operator error contributed to loss of coolant and partial core meltdown at Three Mile Island nuclear reactor.,0,40.19981,-76.73108
+1979/02/04,"Surry, Virginia, United States",13.9,,,NA,Virginia Electric Power Company manually shut down Surry Unit 2 in response to failed tube bundles in steam generators.,0,37.14144,-76.83541
+1978/03/11,"Pinawa, Manitoba, Canada",,,,NA,"The reactor which was cooled by a type of oil, terphenyl isomer, experienced a major coolant leak as one of the pipes developed a hole and 2,739 litres of oil escaped. It took several weeks for workers to find and repair the leak. Much of the leaked oil was then discharged into the Winnipeg River. According to Dr. Agnes Bishop of the Atomic Energy Control Board, (later the CNSC), the fuel reached ""high temperatures"".",0,50.14556,-96.87708
+1977/06/10,"Waterford, Connecticut, United States",17.1,,,NA,Hydrogen gas explosion damaged three buildings and forced shutdown of Millstone-1 Pressurized Water Reactor.,0,41.35175,-72.16482
+1975/11/05,"Brownsville, Nebraska, United States",15,,,NA,Hydrogen gas explosion damaged the Cooper Nuclear Facility's Boiling Water Reactor and an auxiliary building.,0,40.39777,-95.65807
+1975/03/22,"Browns Ferry, Alabama, United States",277.1,,,NA,"Fire burned for seven hours and damaged more than 1,600 control cables for three nuclear reactors, disabling core cooling systems.",0,34.70714,-87.11885
+1974/10/31,"Morris, Grundy County, Illinois, USA",4.4,,,NA,Dresden nuclear power plant suffers a xenon transient and minor release of radioactivity,0,41.35726,-88.42118
+1973/08/11,"Palisades, Michigan, United States",11.8,,,NA,Steam generator leak caused manual shutdown of pressurized water reactor operated by the Consumers Power Company.,0,42.32115,-86.30645
+1972/12/21,"Pawling, NY, USA",788.4,4,,NA,"Tube repairs lead to a loss of coolant accident, causing a year long outage",0,41.57635,-73.59891
+1972/07/27,"Surry, Virginia, United States",1.2,,,NA,Two deaths in steam line rupture and accident,2,37.14144,-76.83541
+1971/07/16,"Cordova, Illinois, United States",1.1,,,NA,An electrician was electrocuted by a live cable at the Quad Cities Unit 1 reactor on the Mississippi River.,1,41.67719,-90.02165
+1970/08/06,"Lawrence Livermore, CA, USA",60.1,4,3.6,NA,"Accident released about 650,000 curies of tritium as far as 200 miles away",0,37.68187,-121.76801
+1969/05/11,"Rocky Flats, USA",425.2,4,2.3,NA,"Plutonium fire broke out in the processing section of Building 776, gave 41 firefighters high radiation doses",0,39.83333,-105.68333
+1966/10/05,"Newport, Michigan, United States",793.9,4,,NA,"Fermi 1, a prototype fast breeder reactor, suffered a partial fuel meltdown",0,41.98619,-83.39349
+1965/01/20,"Lawrence Livermore, CA, USA",6.1,4,3.7,NA,"Roughly 350,000 Ci were released from a stack in building 331",0,37.68187,-121.76801
+1964/07/23,"Rhode Island, United States",0,4,,NA,Operator death due to super critical accident at Wood River Junction Chemical Process Plant,1,41.58009,-71.47743
+1961/06/19,"Sellafield, UK",800,3,4,NA,There was a release of plutonium bearing liquid into process cooling water from a leak in an evaporator,0,54.41727,-3.4987
+1961/01/03,"Idaho Falls, Idaho, United States",25.7,4,2.9,NA,Explosion at National Reactor Testing Station,3,43.49295,-112.04071
+1960/03/04,"Waltz Mill, USA",38,4,,NA,Core melt accident,0,40.24081,-79.78745
+1959/07/26,"Simi Valley, California, United States",37.5,4,,NA,Partial core meltdown at Santa Susana Field Laboratory's Sodium Reactor Experiment.,0,34.26945,-118.78148
+1958/12/30,"Los Alamos, New Mexico",0,,,NA,Death due to citicality accident at Los Alamos National Laboratory.,1,35.88808,-106.30993
+1958/05/24,"Chalk River, Ontario, Canada",77,5,,NA,Fuel rod caught fire and contaminated half of facility.,0,46.05544,-77.45069
+1957/09/11,"Rocky Flats, USA",8189,5,5.2,NA,Fire starts and destroys plutonium processing facility,0,39.83333,-105.68333
+1955/11/29,"Idaho Falls, Idaho, United States",1500,4,,NA,Suffered a partial meltdown during a coolant flow test,0,43.49295,-112.04071
+1952/12/12,"Chalk River, Ontario, Canada",52.4,,,NA,Hydrogen explosion damaged reactor interior and released 30 kilograms of uranium oxide particles.,0,46.05544,-77.45069
+1949/12/02,"Hanford, WA, USA",1100,4,3.8,NA,"Operators release 8,000 curies of iodine-131 over two days known as the ""Green Run""",0,46.55713,-119.48634
+1946/05/21,"Los Alamos, New Mexico",0,,,NA,Death due to citicality accident at Los Alamos National Laboratory.,1,35.88808,-106.30993
+1985/06/14,"Lima, Buenos Aires, Argentina",11.2,,,SA,"Excessive local power in the core caused 46 fuel rods to fail, releasing fuel pellets into the reactor coolant system",0,-34.425,-59.02941
+1983/09/23,"Buenos Aires, Argentina",74.9,4,,SA,Operator error during fuel plate reconfiguration caused meltdown in an experimental test reactor.,1,-34.61315,-58.37723
+1983/09/23,"Buenos Aires, Argentina",0,,,SA,Operator death due to criticality accident at the Constituyentes Atomic Centre,1,-34.61315,-58.37723
+2015/08/18,"Blayais, France",,2,,WE,Accidental overexposure of a worker to a dose of ionising radiation exceeding regulation limits,0,45.27083,-0.70889
+2015/05/28,"Cattenom, France",,1,,WE,Unexpected opening of a secondary system valve which resulted in a steam release,0,49.31358,6.22663
+2014/08/11,"Lancashire, United Kingdom",17,,,WE,Corrosion and defects found in the boiler units of Heysham 1 and Hartlepool forced four reactors offline for 8 weeks for repairs.,0,53.74187,-2.49224
+2013/09/26,"Petten, Netherlands",,2,,WE,"Three out of six control rods were found to show deficiences, the plant had to shut down for 5 months",0,52.76345,4.66986
+2013/05/30,"Forsmark, Sweden",,1,,WE,Emergency generator failed to start after loss of two phases in the incoming supply,0,60.40706,18.1059
+2013/04/24,"Blayais, France",,2,,WE,Accidental overexposure of a worker beyond regulatory limit,0,45.27083,-0.70889
+2012/10/24,"Flamanville, France",,1,,WE,Leak on the auxialliary line of the reactor's coolant system,0,49.53889,-1.87917
+2012/09/26,"Drôme, France",,2,,WE,"Non-complience to regulations applicable to labelling, storage and transfer of wet fissible materials",0,44.72604,5.17368
+2012/05/04,"Penly, France",,1,,WE,As a concequence of fire radioactive water leaked into the collection tanks inside the reactor buldings,0,49.98435,1.05482
+2012/04/05,"Dieppe, France",12.8,1,,WE,Leaking oil from a reactor pump caught fire and forced an emergency shutdown of the number 2 reactor of EDF's Penly Nuclear Power Plant.,0,49.92293,1.07612
+2011/12/22,"Bosco Marengo, Italy",,1,,WE,Fire in the decontamination machine of a former plant,0,44.7813,8.78585
+2011/12/21,"Cattenom, France",,2,,WE,Absence of siphon-breakers in two out of the four reactors of the facility,0,49.31358,6.22663
+2011/09/21,"Codolet, France",,1,,WE,One worker died and four were injured when an explosion in the nuclear facility triggered a fire,1,44.15544,4.6289
+2011/09/12,"Marcoule, France",12.8,,,WE,Marcoule Centraco nuclear waste site's oven used to melt radioactive waste exploded and killed one person and burned four others.,1,44.14426,4.80553
+2011/02/16,"Tricastin, France",,2,,WE,Failed back-up diesel generator was discovered during a periodic test,0,44.37073,4.76334
+2009/12/01,"Cruas-Meysse 4, France",4,2,,WE,"Vegetation blocked the intake of the cooling system, forcing shutdown and repairs",0,44.68407,4.72879
+2009/08/12,"Gravelines, France",2.1,1,,WE,Assembly system failed to properly eject spent fuel rods from the Gravelines Nuclear Power Plant and caused the fuel rods to jam and the reactor to shutdown.,0,51.01561,2.1288
+2009/07/04,"Hamburg, Germany",242.9,,,WE,A short circuit in a transformer caused fuel rod damage and an extended shutdown at Vattenfall's Krümmel nuclear plant.,0,53.55108,9.99368
+2009/06/10,"Cadarache, France",,2,,WE,"Underestimation of plutonium deposits in the facility glove boxes, operations suspended for a month",0,43.68452,5.78193
+2009/03/15,"Oskarshamn, Sweden",0,,,WE,A maintenance worker repairing a shutdown reactor at the Oskarshamn died after falling from the top of the turbine hall.,1,57.2644,16.44837
+2008/08/27,"Trhange, Belgium",,1,,WE,Maintenance operations revealed last Thursday that a fan for the management of air between,0,50.61265,5.53282
+2008/07/13,"Tricastin, France",8.6,1,,WE,The nuclear power operator Areva reported that dozens of liters of wastewater contaminated with uranium were accidentally poured on the ground and ran into river.,0,44.37073,4.76334
+2008/07/04,"Ayrshire and Suffolk, United Kingdom",11.8,,,WE,British Energy nuclear reactors (the Largs and the Sizewell B facilities) shutdown after cooling units malfunctioned and damaged emergency systems and triggered blackouts.,0,55.45857,-4.62918
+2006/06/25,"Sweden",,,,WE,"A short circuit near the Forsmark boiling water reactors in Sweden led to an emergency shutdown and subsequent failures at the plant, with design errors and inappropriate converter adjustments causing issues in switching to house load operation and connecting safety equipment to emergency power. The partial blackout and lack of information on important parameters left the plant's exact state unclear, but the shift team successfully reconnected the plant to the grid.",0,60.12816,18.6435
+2005/06/28,"Forsmark, Sweden",11.8,2,,WE,Repair work on electric arc shorted out a circuit and caused the Forsmark-1 reactor to shutdown and disconnected from the grid and forced a three-week outage.,0,60.40706,18.1059
+2005/04/19,"Seascale, United Kingdom",599.2,3,,WE,20 metric tons of uranium and 160 kilograms of plutonium leaked for more than a year from a cracked pipe at the Thermal Oxide Reprocessing (Thorp) plant in Sellafield.,0,54.39274,-3.34442
+2004/05/16,"Lorraine, France",13.9,1,,WE,Sub-standard electrical cables at the Cattenon-2 nuclear reactor caused a fire in an electricity funnel that damaged safety systems.,0,48.88247,6.29431
+2003/11/19,"La Hague, France",,2,,WE,Worker was contaminated by plutonium during a dust remova opperation,0,49.6697,-1.93924
+2002/11/22,"Trhange, Belgium",,2,,WE,"In November 2002, an incident (INES 2) occurred at Block 2 involving the accidental opening of a pressure relief valve, causing the primary coolant circuit to rapidly depressurize and reducing its ability to remove heat from the reactor, risking overheating and eventual meltdown. The pressure relief valve was closed after three minutes.",0,50.61265,5.53282
+2002/01/21,"Flamanville, France",104,,,WE,"Control systems and safety valves fail after improper installation of condensers, forcing a two month shutdown",0,49.53889,-1.87917
+2002/01/21,"Manche, France",117.7,1,,WE,Control systems and safety valves failed after improper installation of condensers and forced a two month shutdown.,0,49.10537,-1.37536
+2001/12/14,"Germany",,1,,WE,"A hydrogen explosion at the Brunsbüttel boiling water reactor in Germany caused significant damage to the spray system piping, with some parts completely destroyed. Before this incident, the possibility of severe explosions caused by radiolysis gas during normal operation was nearly excluded.",0,51.16569,10.45153
+2001/08/12,"Germany",,2,,WE,"A hydrogen explosion at the Brunsbüttel boiling water reactor in Germany caused significant damage to the spray system piping, with some parts ruptured and a 2.7 m long section destroyed. Prior to this event, the possibility of severe explosions caused by radiolysis gas during normal operation was nearly excluded.",0,51.16569,10.45153
+1999/12/27,"Blayais, France",63.1,2,,WE,A storm flooded the Blayais-2 nuclear reactor and forced emergency shutdown after injection pumps and containment safety systems failed from water damage.,0,45.27083,-0.70889
+1992/06/28,"Sweden",,2,,WE,"A leaking pilot valve in the Barseback-2 boiling water reactor triggered automatic safety functions, but insulation material washed into the suppression pool affected the emergency core cooling system. This problem was found to be applicable to many, if not most, light water reactors worldwide.",0,60.12816,18.6435
+1989/12/19,"Vandellòs, Spain",930.9,3,,WE,A fire at one of its turbines caused the malfunction of safety systems at the Vandellòs Nuclear Power Plant and forced one of its 508 MWe units to permanently shut down.,0,40.94328,0.84818
+1989/11/24,"Greifswald, Germany (Lubmin)",15.5,,,WE,Three out of six cooling water pumps were switched off for a test. A fourth pump broke down and control of the reactor was lost; ten fuel elements were damaged,0,54.08807,13.39234
+1988/06/18,"Belgium",,,,WE,"In June 1988, a sudden leak occurred in a pressurized water reactor's emergency core cooling system (ECCS) piping, with a leak rate of 1,300 liters per hour due to a crack. The risk of pipe rupture in the ECCS is significant if the emergency safety injection system is activated, as large quantities of cooling water would be injected in a degraded safety situation.",0,50.50389,4.469936
+1988/05/12,"France",,2,,WE,"During startup tests at the Civaux-1 pressurized water reactor, a 25 cm diameter pipe in the main residual heat removal system cracked, causing a significant leak in the primary cooling circuit. It took nine hours to isolate the leak and stabilize the situation, with 300 m3 of primary coolant leaked into the reactor building. Although the operator, EDF, suggested an INES level 1 rating, the safety authorities decided on a level 2 rating.",0,46.60335,1.88833
+1987/12/17,"Hesse, Germany",15,1,,WE,Stop valve failed at Biblis Nuclear Power plant and contaminated local area.,0,50.65205,9.16244
+1987/04/12,"Triscastin, France",57.8,,,WE,"Areva's Tricastin fast breeder reactor leaked coolant, sodium, and uranium hexachloride and injured workers and contaminated water supplies.",0,44.37073,4.76334
+1986/05/22,"Normandy, France",5.4,,,WE,A reprocessing plant at Le Hague malfunctioned and exposed workers to unsafe levels of radiation.,0,49.20953,0.12179
+1986/05/04,"Hamm-Uentrop, Germany",308.2,,,WE,Operator actions to dislodge damaged fuel rod at Experimental High Temperature Gas Reactor released excessive radiation to 4 square kilometers around facility.,0,51.67919,7.84278
+1984/07/17,"Sellafield, UK",33.4,3,1.8,WE,A solvent fire in Building B241 effluent treatment plant sludge tank was caused by hot metal from burning operations,0,54.41727,-3.4987
+1984/04/14,"Bugey, France",2.1,,,WE,Electrical cables failed at the command centre of the Bugey nuclear power plant and forced a complete shutdown of one reactor.,0,45.81913,5.26331
+1983/11/01,"Sellafield, UK",44,3,,WE,Inadvertent transfer of 59 TBq activity with solvent and crud took place from Building B205 to a sea tank at Building B242,0,54.41727,-3.4987
+1981/10/01,"Sellafield, UK",9,3,1.3,WE,Inadvertent reprocessing of fuel from Oldbury Power Station had only been cooled for 27 days leads to iodine release,0,54.41727,-3.4987
+1980/09/22,"Sellafield, UK",55,3,1.6,WE,Enhanced corrosion in the Building B38 magnox storage silo caused discharges to atmosphere of 35-70 GBq,0,54.41727,-3.4987
+1980/03/13,"Saint-Laurent, France",133.4,4,,WE,"Partial core meltdown involving 20 kg of uranium, repairs take years",0,47.75047,0.62082
+1979/09/11,"Sellafield, UK",87,4,3.4,WE,There was a release of plutonium to atmosphere during transfer of low radioactive liquid effluent to Building B242,0,54.41727,-3.4987
+1979/07/25,"Saclay, France",5.4,,,WE,"Radioactive fluids escaped into drains designed for ordinary wastes, seeping into the local watershed at the Saclay BL3 Reactor.",0,48.74883,2.17367
+1979/07/16,"Sellafield, UK",30,3,1.9,WE,A fire of magnox swarf and uranium took place in a remote decanning cave in Building B30,0,54.41727,-3.4987
+1979/03/28,"Loir-et-Cher, France",25.7,4,,WE,A malfunctioning cooling system fused fuel elements together at the Saint Laurent A2 reactor and ruined the fuel assembly and forced an extended shutdown.,0,47.70831,1.62771
+1973/09/26,"Sellafield, UK",990,4,2,WE,"An exothermic reaction occurred involving accumulated zirconium fines and solvent in a vessel in the Head End Treatment, exposing 35 workers",0,54.41727,-3.4987
+1972/12/06,"Sellafield, UK",98,3,1.6,WE,Inadvertent processing of fuel elements from Chapelcross had a high iodine content and release 2.2 TBq,0,54.41727,-3.4987
+1971/12/15,"Sellafield, UK",180,3,3.2,WE,An abnormal discharge took place from the Building B203 plutonium recovery plant of about 7.4 GBq Pu,0,54.41727,-3.4987
+1971/03/19,"Sellafield, UK",1330,3,3.2,WE,"Sparks from an electric arc ignited radioactive waste in a basement, leading to 0.48 GBq released",0,54.41727,-3.4987
+1970/11/29,"Sellafield, UK",100,3,2.5,WE,An abnormal discharge of about 1.6 GBq Pu took place via the Building B230 stack,0,54.41727,-3.4987
+1970/03/10,"Sellafield, UK",150,3,2.6,WE,Abnormal discharge of about 1.8 GBq Pu via the Building B230 stack,0,54.41727,-3.4987
+1970/02/10,"Sellafield, UK",100,3,2,WE,Abnormal discharge of Pu via the Building B230 stack,0,54.41727,-3.4987
+1969/10/17,"Saint-Laurent, France",541.4,4,,WE,More than 50 kilograms of uranium fuel at the Saint-Laurent Nuclear Power Plant began to melt after cooling systems failed and forced shutdown and repairs.,0,47.75047,0.62082
+1969/10/12,"Sellafield, UK",2500,4,2.3,WE,Enhanced discharge from the Building B204 stack of about 1.8 TBq beta radioactivity,0,54.41727,-3.4987
+1969/05/01,"Stockholm, Sweden",16.1,,,WE,Malfunction of valve caused flooding in Agesta pressurized heavy water nuclear reactor.,0,59.32932,18.06858
+1969/03/05,"Sellafield, UK",84.5,3,1.6,WE,"A spillage of 370 MBq Pu in Building B229 laboratory, leads to substantial discharge",0,54.41727,-3.4987
+1969/01/21,"Lucens, Canton of Vaud, Switzerland",25.7,5,,WE,Coolant system malfunctioned at underground experimental reactor.,0,46.61825,6.55143
+1968/05/01,"Sellafield, UK",1900,4,4,WE,A month long discharge of radioactivity occurs from Building B230 stack as a result of a failed filter,0,54.41727,-3.4987
+1967/05/02,"Dumfries and Galloway, Scotland",87.7,4,,WE,Fuel rod caught fire and caused partial meltdown at the Chaplecross Magnox nuclear power station.,0,54.89862,-3.96094
+1967/05/01,"Chapelcross, UK",1100,4,,WE,"Fuel element melt and fire in part of core, 2 years of repairs",0,55.12203,-3.34971
+1957/10/08,"Windscale, United Kingdom",89.9,5,4.6,WE,"Fire ignited plutonium piles, created radioactive dust which destroyed surrounding dairy farms.",33,54.41727,-3.4987
+1955/12/08,"Sellafield, UK",1300,3,-2.7,WE,A fire occurred in a radioactive waste silo in Building B247,0,54.41727,-3.4987
+1955/07/14,"Sellafield, UK",2900,3,-2.4,WE,Another radioactive leak and remediation operation,0,54.41727,-3.4987
+1955/03/25,"Sellafield, UK",4400,4,4.3,WE,Fire releases up to up to a few tenths of a terabecquerel of radioactivity into the atmosphere,0,54.41727,-3.4987
